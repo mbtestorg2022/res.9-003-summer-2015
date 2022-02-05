@@ -14,7 +14,18 @@ videos:
 Unit Overview
 -------------
 
-| ![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and unstable tower of blocks.]({{< resource_file a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}}) | Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of objects, may derive from "probabilistic programs" in our heads that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Aspects of these programs are learned from infancy, as a child interacts with the world. (Image courtesy of Josh Tenenbaum, used with permission.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and unstable tower of blocks.]({{< resource_file a3dd6144-57fb-ef82-c3c8-cc776d7db243 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of objects, may derive from "probabilistic programs" in our heads that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Aspects of these programs are learned from infancy, as a child interacts with the world. (Image courtesy of Josh Tenenbaum, used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 How do we make intelligent inferences about objects, events, and relations in the world, from a quick glance? From infancy to adulthood, how do we learn new concepts and reason about novel situations, from little experience? In this unit, Josh Tenenbaum introduces a framework for addressing these questions based on the creation of generative models of the physical and social worlds that enable probabilistic inference about objects and events.
 

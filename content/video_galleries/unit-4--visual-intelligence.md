@@ -16,7 +16,24 @@ videos:
 Unit Overview
 -------------
 
-| ![A 3x3 grid of photos: top row "memorable" includes a giant inflatable gorilla; middle row "average" includes a grocery store produce section; bottom "forgettable" includes generic landscapes.]({{< resource_file b44faeaf-035b-c4fc-1c98-f93e902f29ed >}}) |  {{< br >}}{{< br >}} What makes an image memorable? Using insights from perceptual experiments, fMRI studies, and computational modeling, Aude Oliva has identified some key factors that determine visual memorability. {{< br >}}{{< br >}} (Image based on Isola, Phillip, Jianxiong Xiao, Devi Parikh, Antonio Torralba, and Aude Oliva. "What Makes a Photograph Memorable?" _IEEE Trans. Pattern Anal. Mach. Intell_. 36, no. 7 (July 2014): 1469–1482. From [author's final manuscript](https://dspace.mit.edu/handle/1721.1/90984), license [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A 3x3 grid of photos: top row "memorable" includes a giant inflatable gorilla; middle row "average" includes a grocery store produce section; bottom "forgettable" includes generic landscapes.]({{< resource_file b44faeaf-035b-c4fc-1c98-f93e902f29ed >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What makes an image memorable? Using insights from perceptual experiments, fMRI studies, and computational modeling, Aude Oliva has identified some key factors that determine visual memorability.
+
+(Image based on Isola, Phillip, Jianxiong Xiao, Devi Parikh, Antonio Torralba, and Aude Oliva. "What Makes a Photograph Memorable?" _IEEE Trans. Pattern Anal. Mach. Intell_. 36, no. 7 (July 2014): 1469–1482. From [author's final manuscript](https://dspace.mit.edu/handle/1721.1/90984), license [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/).)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 How do we obtain a rich understanding of the world from visual input? What visual cues enable us to recognize objects from their structure or texture, or to remember objects and scenes that we have encountered before? What is the future for intelligent systems that can drive a car or assist the visually impaired? This unit explores these questions from the perspectives of perception and cognition, brain imaging, and the engineering of intelligent systems.
 

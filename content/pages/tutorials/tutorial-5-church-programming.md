@@ -15,7 +15,18 @@ videos:
 Tutorial Overview
 -----------------
 
-| ![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and collapsing unstable tower of blocks.]({{< resource_file 20b84384-fbe1-fff3-7d7e-31991157e720 >}}) | Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of blocks, may derive from "probabilistic programs" that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Such programs can be implemented and tested using probabilistic programming languages such as the Church language. (Image courtesy of Josh Tenenbaum, used with permission.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram with photos of three types of stacked objects—dishes in a sink, stable tower of blocks and collapsing unstable tower of blocks.]({{< resource_file 20b84384-fbe1-fff3-7d7e-31991157e720 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Josh Tenenbaum and colleagues propose that our intuitions about properties like the stability of a stack of blocks, may derive from "probabilistic programs" that can simulate, with some uncertainty, the physics that governs how objects behave in space and time. Such programs can be implemented and tested using probabilistic programming languages such as the Church language. (Image courtesy of Josh Tenenbaum, used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The unit on modeling human cognition introduced a framework based on the creation of generative models of the physical and social worlds that enable probabilistic inference about objects, agents, and events. The Church programming language was designed to facilitate the implementation and testing of such models. In this tutorial, you will first learn the syntax and some basic primitives of the Church language, and how to define functions that implement simple probabilistic models and inference methods. The concepts are then explored through examples such as hypothesis testing in the domain of coin-flipping, and reasoning about the goals and beliefs of an agent.
 

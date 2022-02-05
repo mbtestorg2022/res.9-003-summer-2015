@@ -15,7 +15,24 @@ videos:
 Unit Overview
 -------------
 
-| ![Still photo of a tall blue bin in center, with a man to the left standing with a folding chair and a man to the right with a backpack.]({{< resource_file f1377cde-cb2e-42cb-7c11-568e6a9c2eb6 >}}) |  {{< br >}}{{< br >}} How do we recognize physical events in a dynamic visual scene? Andrei Barbu and his colleagues have developed a system that can generate a sentence like "The person to the right of the bin picked up the backpack" from a video clip portraying this action. {{< br >}}{{< br >}} (Image © Journal of Artificial Intelligence Research. All rights reserved. [This content is excluded](/help/faq-fair-use/) from our Creative Commons license. Source: Yu, H., N. Siddharth, A. Barbu, and J. M. Siskind. "A Compositional Framework for Grounding Language Inference, Generation, and Acquisition in Video." _J. Artif. Intell. Res. (JAIR)_ 52 (2015): 601-713.) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Still photo of a tall blue bin in center, with a man to the left standing with a folding chair and a man to the right with a backpack.]({{< resource_file f1377cde-cb2e-42cb-7c11-568e6a9c2eb6 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How do we recognize physical events in a dynamic visual scene? Andrei Barbu and his colleagues have developed a system that can generate a sentence like "The person to the right of the bin picked up the backpack" from a video clip portraying this action.
+
+(Image © Journal of Artificial Intelligence Research. All rights reserved. [This content is excluded](/help/faq-fair-use/) from our Creative Commons license. Source: Yu, H., N. Siddharth, A. Barbu, and J. M. Siskind. "A Compositional Framework for Grounding Language Inference, Generation, and Acquisition in Video." _J. Artif. Intell. Res. (JAIR)_ 52 (2015): 601-713.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The ability to obtain and communicate complex knowledge about a visual scene, in order to answer simple questions about the objects, agents, and actions portrayed, requires the integration of vision with language understanding. In this unit, you will learn about the state-of-the-art in automated question answering systems; models that leverage visual recognition and tracking with language understanding to describe the content of a video in linguistic terms; and a system that can understand stories. Turning to biology, you will learn about the representations of semantic information in the brain as revealed by fMRI studies.
 

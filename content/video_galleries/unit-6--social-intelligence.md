@@ -15,7 +15,18 @@ videos:
 Unit Overview
 -------------
 
-| ![Diagram of the human brain, with 5 subregions highlighted along the temporal lobe.]({{< resource_file 1ec1934e-bf22-f51a-57e4-1dc1839a438b >}}) | fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and colleagues reveals subregions of area STS in the human brain, roughly portrayed here, that are engaged in aspects of social cognition such as Theory of Mind, voice perception, language, and face analysis. (Image courtesy of Nancy Kanwisher, used with permission.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram of the human brain, with 5 subregions highlighted along the temporal lobe.]({{< resource_file 1ec1934e-bf22-f51a-57e4-1dc1839a438b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+fMRI studies conducted by Nancy Kanwisher, Rebecca Saxe, and colleagues reveals subregions of area STS in the human brain, roughly portrayed here, that are engaged in aspects of social cognition such as Theory of Mind, voice perception, language, and face analysis. (Image courtesy of Nancy Kanwisher, used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Social cognition is at the core of human intelligence. Social interactions are the source of much of human knowledge and a large part of everyday human activity. Social behavior also engages a large part of the neural circuitry in the brain and has driven the evolution of the human brain beyond its primate origins. In this unit, you will learn about the neural and perceptual basis of social cognition, and powerful quantitative methods for analyzing fMRI data to probe the neural mechanisms underlying tasks such as inferring the mental states of others.
 

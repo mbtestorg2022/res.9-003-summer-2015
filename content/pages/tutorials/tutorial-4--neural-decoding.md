@@ -14,7 +14,18 @@ videos:
 Tutorial Overview
 -----------------
 
-| ![Plot of true classes vs. predicted classes, with a band of highest value proceeding from upper left to lower right.]({{< resource_file 930de496-ac6e-6629-9da3-9f86ce7dde29 >}}) | In experiments by Zhang et al. (2011), monkeys viewed images depicting different classes of objects while researchers measured the neural signals generated for each image in an area of the brain known as IT cortex. These signals were later _decoded_ to determine the particular object class that was viewed. This figure shows a _confusion matrix_ that captures how well the class predicted by the decoding model matches the true object class that was viewed. (Image courtesy of Ethan Myers, used with permission.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Plot of true classes vs. predicted classes, with a band of highest value proceeding from upper left to lower right.]({{< resource_file 930de496-ac6e-6629-9da3-9f86ce7dde29 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+In experiments by Zhang et al. (2011), monkeys viewed images depicting different classes of objects while researchers measured the neural signals generated for each image in an area of the brain known as IT cortex. These signals were later _decoded_ to determine the particular object class that was viewed. This figure shows a _confusion matrix_ that captures how well the class predicted by the decoding model matches the true object class that was viewed. (Image courtesy of Ethan Myers, used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 What information is contained in the neural signals generated in a region of the brain, and how is this information encoded? Is it possible to decode the neural signals to determine what information they represent? In this tutorial you will learn about _population decoding,_ a powerful method to analyze neural data in order to understand the information contained in the data and how it is encoded. The method is demonstrated through experiments that probe the neural representations underlying visual object recognition in primate visual cortex. The Neural Decoding Toolbox, implemented in MATLAB®, enables researchers to apply this analysis to many sources of neural data such as single cell recordings, fMRI, MEG and EEG.
 

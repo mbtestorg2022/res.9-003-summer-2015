@@ -18,7 +18,24 @@ videos:
 Unit Overview
 -------------
 
-| ![Photo of a young boy building a tower out of wooden blocks.]({{< resource_file 4a944d1b-2976-6a0b-6f68-2f7a1ed13062 >}}) |  {{< br >}}{{< br >}} How does a child develop the knowledge of physical objects and their behavior needed to create a simple stack of blocks? Innovative methods to probe infants' knowledge of the world, advanced by Liz Spelke, Laura Schulz, and others, have led to insights about the nature of this evolving knowledge that enable Josh Tenenbaum and others to build models of how children learn how to reason about the physical world. {{< br >}}{{< br >}} (Courtesy of National Academy of Sciences, U. S. A. Used with permission. Source: Battaglia, Peter W., Jessica B. Hamrick, and Joshua B. Tenenbaum. "Simulation as an engine of physical scene understanding." _Proceedings of the National Academy of Sciences_ 110, no. 45 (2013): 18327-18332. Copyright © 2013 National Academy of Sciences, U.S.A.) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of a young boy building a tower out of wooden blocks.]({{< resource_file 4a944d1b-2976-6a0b-6f68-2f7a1ed13062 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How does a child develop the knowledge of physical objects and their behavior needed to create a simple stack of blocks? Innovative methods to probe infants' knowledge of the world, advanced by Liz Spelke, Laura Schulz, and others, have led to insights about the nature of this evolving knowledge that enable Josh Tenenbaum and others to build models of how children learn how to reason about the physical world.
+
+(Courtesy of National Academy of Sciences, U. S. A. Used with permission. Source: Battaglia, Peter W., Jessica B. Hamrick, and Joshua B. Tenenbaum. "Simulation as an engine of physical scene understanding." _Proceedings of the National Academy of Sciences_ 110, no. 45 (2013): 18327-18332. Copyright © 2013 National Academy of Sciences, U.S.A.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 What are the cognitive capacities of infants and how do they develop through early childhood? The answers to these questions may shed light on the fundamental cognitive systems that organize human knowledge and support learning through adulthood. But how is it possible to probe the knowledge of infants, given their limited ability to communicate that knowledge? This unit introduces behavioral methods used to study early cognitive development and examines what these studies reveal about the evolution of infants' understanding of objects, agents, and causal relations, and how young children learn by engaging in a process of directed discovery.
 

@@ -19,7 +19,18 @@ videos:
 Unit Overview
 -------------
 
-| ![Diagram of primate brain with colored patches highlighting regions associated with different facial orientations.]({{< resource_file cf903a5c-b45b-6b69-103a-fc1c623af95f >}}) | Work by Winrich Freiwald and colleagues reveals a network of "face patches" in the primate brain containing neurons whose activity represents increasingly complex stages of face recognition. (Image courtesy of Winrich Friewald, used with permission.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram of primate brain with colored patches highlighting regions associated with different facial orientations.]({{< resource_file cf903a5c-b45b-6b69-103a-fc1c623af95f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Work by Winrich Freiwald and colleagues reveals a network of "face patches" in the primate brain containing neurons whose activity represents increasingly complex stages of face recognition. (Image courtesy of Winrich Friewald, used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 How does intelligence emerge from the activity of neural circuits in the brain? In this unit you will learn about empirical methods used to probe neural activity and what these methods reveal about the neural processes underlying important tasks such as visual recognition in humans and primates, and spatial navigation in lower mammals.
 

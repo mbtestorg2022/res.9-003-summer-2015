@@ -16,7 +16,18 @@ videos:
 Tutorial Overview
 -----------------
 
-| ![An array of handwritten digits accompanied by a 3-D scatter plot.]({{< resource_file ccf77ab8-5d55-93ba-bc2e-33ad552f3a74 >}}) | Visualization of the results of _principal components analysis_ applied to high-dimensional data capturing visual properties of handwritten digits. The data was reduced to three dimensions that capture most of the variation in the original data, roughly segregating the data into the corresponding digits, as portrayed by the different colors of the data points. (Image courtesy of Lorenzo Rosasco, used with permission.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![An array of handwritten digits accompanied by a 3-D scatter plot.]({{< resource_file ccf77ab8-5d55-93ba-bc2e-33ad552f3a74 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Visualization of the results of _principal components analysis_ applied to high-dimensional data capturing visual properties of handwritten digits. The data was reduced to three dimensions that capture most of the variation in the original data, roughly segregating the data into the corresponding digits, as portrayed by the different colors of the data points. (Image courtesy of Lorenzo Rosasco, used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A key aspect of intelligent systems is their ability to learn from data or past experience. Modern methods for data analysis also draw heavily on techniques for learning patterns in data. This tutorial introduces many common methods for _machine learning_ that are used in the fields of intelligence science and data science. The video lectures explore some of the basic concepts and theory underlying the behavior of various learning methods and their application to different kinds of problems. This theory is complemented by hands-on computer labs in the MATLAB® computing environment, to explore the behavior of machine learning methods in practice.
 

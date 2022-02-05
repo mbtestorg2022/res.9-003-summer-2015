@@ -14,7 +14,18 @@ videos:
 Unit Overview
 -------------
 
-| ![Diagram showing a model of how objects within a street scene are associated with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally "AIT."]({{< resource_file ea34d43d-037f-bd1b-ec4d-c20f3e97567e >}}) | Tomaso Poggio and his colleagues have developed a model of the early processing stages in the ventral visual pathway of the brain, which may underlie our ability to recognize object categories from visual input in a brief flash of less than 100 milliseconds. (Courtesy of Tomaso Poggio and Thomas Serre. From "[Models of visual cortex](http://www.scholarpedia.org/article/Models_of_visual_cortex)." _Scholarpedia_ 8 no. 4 (2013): 3516. License CC BY-NC-SA.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram showing a model of how objects within a street scene are associated with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally "AIT."]({{< resource_file ea34d43d-037f-bd1b-ec4d-c20f3e97567e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Tomaso Poggio and his colleagues have developed a model of the early processing stages in the ventral visual pathway of the brain, which may underlie our ability to recognize object categories from visual input in a brief flash of less than 100 milliseconds. (Courtesy of Tomaso Poggio and Thomas Serre. From "[Models of visual cortex](http://www.scholarpedia.org/article/Models_of_visual_cortex)." _Scholarpedia_ 8 no. 4 (2013): 3516. License CC BY-NC-SA.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Research on learning in deep networks has led to impressive performance by machines on tasks such as object recognition, but a deep understanding of the behavior of these networks and why they perform so well remains a mystery. In this unit, you will first learn about a model of rapid object recognition in visual cortex that resembles the structure of deep networks. You will then learn some of the theory behind how the structural connectivity, complexity, and dynamics of deep networks govern their learning behavior.
 

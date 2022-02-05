@@ -14,7 +14,18 @@ videos:
 Tutorial Overview
 -----------------
 
-| ![Graphic of three people's heads in different colors.]({{< resource_file 2f896fc9-5689-288c-eb18-e22964408dd4 >}}) | Amazon Mechanical Turk (MTurk) is an online crowdsourcing platform that enables researchers to conduct large-scale experiments on the Internet. Many experiments described in this course were conducted on MTurk. (Image ® Amazon.com. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/)) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Graphic of three people's heads in different colors.]({{< resource_file 2f896fc9-5689-288c-eb18-e22964408dd4 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Amazon Mechanical Turk (MTurk) is an online crowdsourcing platform that enables researchers to conduct large-scale experiments on the Internet. Many experiments described in this course were conducted on MTurk. (Image ® Amazon.com. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 How can [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) (MTurk) enable you to conduct large-scale experiments on how people perform simple tasks involving perception, learning, or decision making? Or enable you to create a large database of labeled images or videos? In this introduction to MTurk, you will learn about the kinds of tasks for which MTurk is well suited, how to get started on setting up an experiment, the advantages and concerns of conducting experiments on MTurk, some tips for using this tool effectively, and additional resources for learning more about MTurk.
 

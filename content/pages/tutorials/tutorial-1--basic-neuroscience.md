@@ -14,7 +14,18 @@ videos:
 Tutorial Overview
 -----------------
 
-| ![Diagram of human brain with two arrows emerging from the rear (occipital lobe). The ventral stream goes to the side, along the temporal lobe, and the dorsal stream goes toward the top of the brain.]({{< resource_file 7d776bec-a5cd-978c-d8d5-d36f13eb9597 >}}) | The _two-streams hypothesis_ distinguishes two processing pathways in the brain: The ventral stream (also known as the "what pathway") shown in purple and the dorsal stream (also known as the "where" pathway") shown in green. (Image © Wikipedia user Selket. License CC BY-SA. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/)) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Diagram of human brain with two arrows emerging from the rear (occipital lobe). The ventral stream goes to the side, along the temporal lobe, and the dorsal stream goes toward the top of the brain.]({{< resource_file 7d776bec-a5cd-978c-d8d5-d36f13eb9597 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+The _two-streams hypothesis_ distinguishes two processing pathways in the brain: The ventral stream (also known as the "what pathway") shown in purple and the dorsal stream (also known as the "where" pathway") shown in green. (Image © Wikipedia user Selket. License CC BY-SA. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 This tutorial first introduces basic neuroscience concepts, including the structure of neurons and how they communicate information, brain anatomy and the dorsal / ventral visual pathways, and methods for probing the behavior of neural circuits. It then explores the nature of processing along the ventral pathway that is involved in visual recognition.
 

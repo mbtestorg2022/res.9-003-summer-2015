@@ -9,7 +9,18 @@ uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
 Tutorial Overview
 -----------------
 
-| ![Sequence of four images of a coin, with progressively less detail and resolution.](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/tutor2.jpg) | One MATLAB® tutorial exercise explores how the retinal image (upper left) is processed by neurons in the early stages of the visual pathway. This processing can be modeled as convolution with spatial filters that incorporate Gaussian smoothing (upper right). The result of retinal processing can be described as convolution with the difference of two Gaussians that form a center-surround spatial structure (lower left). The spatial receptive fields of neurons in visual cortex can be described as an oriented Gabor filter, producing results such as that shown for an oblique orientation in the lower right. 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Sequence of four images of a coin, with progressively less detail and resolution.](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/tutor2.jpg)
+{{< tdclose >}}
+{{< tdopen >}}
+One MATLAB® tutorial exercise explores how the retinal image (upper left) is processed by neurons in the early stages of the visual pathway. This processing can be modeled as convolution with spatial filters that incorporate Gaussian smoothing (upper right). The result of retinal processing can be described as convolution with the difference of two Gaussians that form a center-surround spatial structure (lower left). The spatial receptive fields of neurons in visual cortex can be described as an oriented Gabor filter, producing results such as that shown for an oblique orientation in the lower right.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MATLAB is a powerful technical computing environment that is used extensively in the research described in this course. MATLAB programs are used, for example, to conduct experiments and gather data, analyze and visualize data, and implement computational models. This tutorial is intended for students who already have computer programming background and want to learn some of the basic elements of the MATLAB language and how it can be applied to sample problems in computational neuroscience.
 
@@ -28,7 +39,22 @@ NOTE: There are no videos for this tutorial.
 
 *   The tutorial document below, which was originally prepared by Mark Goldman (UC Davis) and extended by Daniel Zysman (MIT), provides an introduction to aspects of MATLAB that are used in the programming exercises provided in this tutorial.
 
-| [MATLAB: Goldman / Zysman Introductory Tutorial (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_tut2.pdf) |  {{< br >}}{{< br >}} [Code + data files for these tutorial examples (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MATLAB_code.zip) (This ZIP file contains: 8 .m files and 1 .mat file) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[MATLAB: Goldman / Zysman Introductory Tutorial (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_tut2.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Code + data files for these tutorial examples (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MATLAB_code.zip) (This ZIP file contains: 8 .m files and 1 .mat file)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Some additional resources for learning MATLAB are listed in the section on _Future Study_. You can also view a 5-minute video introduction to MATLAB by entering the following expression in the MATLAB Command window:
 
@@ -38,12 +64,57 @@ Some additional resources for learning MATLAB are listed in the section on _Futu
 
 The table below provides descriptions of programming exercises, supporting code and data files, and solution code. They were prepared by Daniel Zysman and Ellen Hildreth, based on some material from the 2014 summer course originally developed by Emily Mackevicius.
 
-| EXERCISES | SOLUTIONS  |
-| --- | --- |
-| [Feedforward neural networks for digital character recognition (ZIP - 2.3MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/FF_MNIST.zip) (This ZIP file contains: 1 .doc file and 1 .mat file) | [Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/FF_MNIST_sol.zip) (This ZIP file contains: 2 .m files) |
-| [Spatial processing in the visual pathway (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_imageproc.pdf) | [Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/imageproc_sol.zip) (This ZIP file contains: 4 .m files) |
-| [Integrate and fire model of neural activation (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_fire.pdf) | [Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/integrate_fire_sol.zip) (This ZIP file contains: 6 .m files) |
-| [Spike-triggered averaging of neural responses: Handout and data (ZIP - 2.1MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/spike_avg.zip) (This ZIP file contains: 1 .doc file and 1 .mat file) | [Solutions (ZIP - 1.9MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/spike_avg_sol.zip) (This ZIP file contains: 2 .m files and 1 .mat file) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXERCISES
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS 
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Feedforward neural networks for digital character recognition (ZIP - 2.3MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/FF_MNIST.zip) (This ZIP file contains: 1 .doc file and 1 .mat file)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/FF_MNIST_sol.zip) (This ZIP file contains: 2 .m files)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Spatial processing in the visual pathway (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_imageproc.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/imageproc_sol.zip) (This ZIP file contains: 4 .m files)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Integrate and fire model of neural activation (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_fire.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/integrate_fire_sol.zip) (This ZIP file contains: 6 .m files)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Spike-triggered averaging of neural responses: Handout and data (ZIP - 2.1MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/spike_avg.zip) (This ZIP file contains: 1 .doc file and 1 .mat file)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions (ZIP - 1.9MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/spike_avg_sol.zip) (This ZIP file contains: 2 .m files and 1 .mat file)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Further Study
 -------------

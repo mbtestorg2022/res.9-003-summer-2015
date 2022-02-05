@@ -18,7 +18,18 @@ videos:
 Unit Overview
 -------------
 
-| ![Photo of a mobile robot  with long "whiskers" protruding to the sides, brushing the whiskers on a person's hand.]({{< resource_file 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}}) | Robotics researchers at the University of Sheffield, led by Tony Prescott, have built a robot that senses the environment with moving whiskers, incorporating a model of whisking behavior in rodents and observations of sensory-motor systems in the mammalian brain. (Image courtesy of Martin Pearson and Ben Mitchinson, used with permission.) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Photo of a mobile robot  with long "whiskers" protruding to the sides, brushing the whiskers on a person's hand.]({{< resource_file 0c5eb8f4-ce53-cf75-8e89-923a1e652046 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Robotics researchers at the University of Sheffield, led by Tony Prescott, have built a robot that senses the environment with moving whiskers, incorporating a model of whisking behavior in rodents and observations of sensory-motor systems in the mammalian brain. (Image courtesy of Martin Pearson and Ben Mitchinson, used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The challenges of building robots that can sense the environment, navigate through the world, manipulate objects, and learn from experience, may shed light on how these tasks are performed by biological systems. A deeper understanding of sensory-motor processing in biological systems may also inform the design of more intelligent robots. This unit explores some of the successes, challenges, and insights gained from efforts to build intelligent humanoid robots, self-driving vehicles, and robots that construct a model of the spatial structure of objects and surfaces in the environment through intelligent sensing and exploration.
 
