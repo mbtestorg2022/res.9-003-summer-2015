@@ -55,6 +55,6 @@ This tutorial is based in part on the MIT course [_9.520 Statistical Learning Th
 
 Bishop, C. M. [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/people/cmbishop/#prml-book). Springer, 2007. ISBN: 9780387310732.
 
-Rosasco, L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Introductory Machine Learning Notes." (PDF)](http://lcsl.mit.edu/courses/cbmmss/machine_learning/notes/MLNotes_Oct16.pdf) (2016).
+Rosasco, L. ["Introductory Machine Learning Notes." (PDF)](http://lcsl.mit.edu/courses/cbmmss/machine_learning/notes/MLNotes_Oct16.pdf) (2016).
 
 Hastle, T., R. Tibshirani, and J. Friedman. _The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Edition (Springer Series in Statistics)_. Springer, 2009. ISBN: 9780387848570. \[Preview with [Google Books](http://books.google.com/books?id=tVIjmNS3Ob8C&pg=PAfrontcover)\]

@@ -33,7 +33,7 @@ Activities
 ### Useful Background
 
 *   No background is needed for this introduction
-*   This short opinion piece captures some of the motivation for studying the science of intelligence: Koch, Christof, and Tomaso Poggio. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Science of Intelligence." (PDF)](http://cbmm.mit.edu/sites/default/files/publications/A Science of Intelligence.pdf) _Center for Brains Minds and Machines Views & Reviews_ (2015).
+*   This short opinion piece captures some of the motivation for studying the science of intelligence: Koch, Christof, and Tomaso Poggio. ["A Science of Intelligence." (PDF)](http://cbmm.mit.edu/sites/default/files/publications/A Science of Intelligence.pdf) _Center for Brains Minds and Machines Views & Reviews_ (2015).
 
 ### Videos and Slides
 

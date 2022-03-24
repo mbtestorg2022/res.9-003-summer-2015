@@ -131,7 +131,7 @@ Gore, J., P. Blainey, E. S. Lander, E. Fraenkel, M. E. Wiltrout, N. Schafheimer.
 
 Hanselman, D. C., and B. L. Littlefield. _Mastering MATLAB_. Pearson, 2012. ISBN: 9780136013303.
 
-Mathworks, Inc. [MATLAB tutorials, including MATLAB Onramp](http://www.mathworks.com/academia/student_center/tutorials/mltutorial_launchpad.html), and [MATLAB documentation](http://www.mathworks.com/help/matlab/), including a ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[MATLAB Primer (PDF - 2.4MB)](http://web.mit.edu/6.777/www/downloads/primer.pdf).
+Mathworks, Inc. [MATLAB tutorials, including MATLAB Onramp](http://www.mathworks.com/academia/student_center/tutorials/mltutorial_launchpad.html), and [MATLAB documentation](http://www.mathworks.com/help/matlab/), including a [MATLAB Primer (PDF - 2.4MB)](http://web.mit.edu/6.777/www/downloads/primer.pdf).
 
 Šćepanović, Danilo. [_6.094 Introduction to MATLAB_](/courses/6-057-introduction-to-matlab-january-iap-2019), January 2010. MIT OpenCourseWare.
 

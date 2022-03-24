@@ -65,12 +65,12 @@ Deen, B., K. Koldewyn, et al. "[Functional Organization of Social Perception and
 
 Duchaine, B., and K. Nakayama. "[The Cambridge Face Memory Test: Results for Neurologically Intact Individuals and an Investigation of its Validity Using Inverted Face Stimuli and Prosopagnosic Participants](https://www.researchgate.net/profile/Ken_Nakayama/publication/7593331_The_Cambridge_Face_Memory_Test_results_for_neurologically_intact_individuals_and_an_investigation_of_its_validity_using_inverted_face_stimuli_and_prosopagnosic_participants/)." _Neuropsychologia_ 44, no. 4 (2006): 576–85.
 
-Koster-Hale, J., and R. Saxe. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Theory of Mind: A Neural Prediction Problem." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041537/pdf/nihms-586350.pdf) _Neuron 79_ (2013): 836–48.
+Koster-Hale, J., and R. Saxe. ["Theory of Mind: A Neural Prediction Problem." (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041537/pdf/nihms-586350.pdf) _Neuron 79_ (2013): 836–48.
 
-Koster-Hale, J., M. Bedny, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults." (PDF - 1.2MB)](https://www.sciencedirect.com/science/article/pii/S0010027714000675) _Cognition_ 133 (2014): 65–78.
+Koster-Hale, J., M. Bedny, et al. ["Thinking About Seeing: Perceptual Sources of Knowledge are Encoded in the Theory of Mind Brain Regions of Sighted and Blind Adults." (PDF - 1.2MB)](https://www.sciencedirect.com/science/article/pii/S0010027714000675) _Cognition_ 133 (2014): 65–78.
 
-Peterson, M. F., J. Lin, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Individual Differences in Face Looking Behavior Generalize from the Lab to the World." (PDF - 62.7MB)](http://web.mit.edu/bcs/nklab/media/pdfs/PetersonJOV2016.pdf) _Journal of Vision_ 16, no. 7 (2016): 1–18.
+Peterson, M. F., J. Lin, et al. ["Individual Differences in Face Looking Behavior Generalize from the Lab to the World." (PDF - 62.7MB)](http://web.mit.edu/bcs/nklab/media/pdfs/PetersonJOV2016.pdf) _Journal of Vision_ 16, no. 7 (2016): 1–18.
 
-Skerry, A. E., and R. Saxe. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Neural Representations of Emotion are Organized Around Abstract Event Features." (PDF - 2.1MB)](https://dspace.mit.edu/handle/1721.1/107225) _Current Biology_ 15 (2015): 1–10.
+Skerry, A. E., and R. Saxe. ["Neural Representations of Emotion are Organized Around Abstract Event Features." (PDF - 2.1MB)](https://dspace.mit.edu/handle/1721.1/107225) _Current Biology_ 15 (2015): 1–10.
 
-Vaziri-Pashkam, M., S. Cormiea, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Predicting Actions Before They Occur." (PDF - 1.4MB)](http://cbmm.mit.edu/sites/default/files/publications/CBMMMemo038.pdf) _Center for Brains, Minds & Machines_, Memo No. 038 (2015).
+Vaziri-Pashkam, M., S. Cormiea, et al. ["Predicting Actions Before They Occur." (PDF - 1.4MB)](http://cbmm.mit.edu/sites/default/files/publications/CBMMMemo038.pdf) _Center for Brains, Minds & Machines_, Memo No. 038 (2015).
