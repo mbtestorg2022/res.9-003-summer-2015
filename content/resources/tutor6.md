@@ -11,6 +11,7 @@ image_metadata:
     described in this course were conducted on MTurk.
   credit: ''
   image-alt: Graphic of three people's heads in different colors.
+parent_uid: 7e2b7b55-eaa4-6494-579e-611d46d28b3a
 resourcetype: Image
 title: tutor6.jpg
 uid: 2f896fc9-5689-288c-eb18-e22964408dd4

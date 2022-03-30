@@ -22,6 +22,7 @@ image_metadata:
   credit: ''
   image-alt: Sequence of four images of a coin, with progressively less detail and
     resolution.
+parent_uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
 resourcetype: Image
 title: tutor2.jpg
 uid: 6a56f248-a906-0b47-36be-54fe2d2df916

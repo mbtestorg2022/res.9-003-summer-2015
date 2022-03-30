@@ -13,6 +13,7 @@ image_metadata:
   credit: Image courtesy of Winrich Friewald, used with permission.
   image-alt: Diagram of primate brain with colored patches highlighting regions associated
     with different facial orientations.
+parent_uid: e1619dcf-4933-8ee6-8458-d20fd651289a
 resourcetype: Image
 title: unit1.jpg
 uid: cf903a5c-b45b-6b69-103a-fc1c623af95f

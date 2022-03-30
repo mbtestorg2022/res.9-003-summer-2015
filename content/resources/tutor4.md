@@ -18,6 +18,7 @@ image_metadata:
   credit: ''
   image-alt: Plot of true classes vs. predicted classes, with a  band of highest value
     proceeding from upper left to lower right.
+parent_uid: 6ddfcb58-85ac-c7b6-42ae-b8f2b44f6561
 resourcetype: Image
 title: tutor4.jpg
 uid: 930de496-ac6e-6629-9da3-9f86ce7dde29

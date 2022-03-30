@@ -14,6 +14,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of a mobile robot  with long "whiskers" protruding to the sides,
     brushing the whiskers on a person's hand.
+parent_uid: d0c148a6-bf68-05c7-c4be-4fbf44356bb5
 resourcetype: Image
 title: unit8.jpg
 uid: 0c5eb8f4-ce53-cf75-8e89-923a1e652046

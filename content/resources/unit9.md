@@ -15,6 +15,7 @@ image_metadata:
   image-alt: Diagram showing a model of how objects within a street scene are associated
     with categories, by moving through levels labeled  "V1", "V2-V4", "PIT" and finally
     "AIT."
+parent_uid: a9e7f99a-ce34-3b66-1440-d2ef1d026bdf
 resourcetype: Image
 title: unit9.jpg
 uid: ea34d43d-037f-bd1b-ec4d-c20f3e97567e

@@ -12,7 +12,7 @@ Tutorial Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Sequence of four images of a coin, with progressively less detail and resolution.](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/tutor2.jpg)
+{{< resource "6a56f248-a906-0b47-36be-54fe2d2df916" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 One MATLAB® tutorial exercise explores how the retinal image (upper left) is processed by neurons in the early stages of the visual pathway. This processing can be modeled as convolution with spatial filters that incorporate Gaussian smoothing (upper right). The result of retinal processing can be described as convolution with the difference of two Gaussians that form a center-surround spatial structure (lower left). The spatial receptive fields of neurons in visual cortex can be described as an oriented Gabor filter, producing results such as that shown for an oblique orientation in the lower right.
@@ -42,12 +42,12 @@ NOTE: There are no videos for this tutorial.
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[MATLAB: Goldman / Zysman Introductory Tutorial (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_tut2.pdf)
+{{% resource_link "d82a14ff-eb24-f8c7-7cc2-2bf263ebc6b2" "MATLAB: Goldman / Zysman Introductory Tutorial (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-[Code + data files for these tutorial examples (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MATLAB_code.zip) (This ZIP file contains: 8 .m files and 1 .mat file)
+{{% resource_link "52492f21-0c06-9355-cb77-f6deb63fd26c" "Code + data files for these tutorial examples (ZIP)" %}} (This ZIP file contains: 8 .m files and 1 .mat file)
 
 
 {{< tdclose >}}
@@ -79,37 +79,37 @@ SOLUTIONS 
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Feedforward neural networks for digital character recognition (ZIP - 2.3MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/FF_MNIST.zip) (This ZIP file contains: 1 .doc file and 1 .mat file)
+{{% resource_link "648f1cb2-7eae-f772-14a0-d25c5a8abe23" "Feedforward neural networks for digital character recognition (ZIP - 2.3MB)" %}} (This ZIP file contains: 1 .doc file and 1 .mat file)
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/FF_MNIST_sol.zip) (This ZIP file contains: 2 .m files)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Spatial processing in the visual pathway (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_imageproc.pdf)
-{{< tdclose >}}
-{{< tdopen >}}
-[Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/imageproc_sol.zip) (This ZIP file contains: 4 .m files)
+{{% resource_link "ad9a22d9-d1c1-3e98-5072-17c27b01448c" "Solutions (ZIP)" %}} (This ZIP file contains: 2 .m files)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Integrate and fire model of neural activation (PDF)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/MITRES_9_003SUM15_fire.pdf)
+{{% resource_link "2dc82de9-7261-a579-c89b-1c4cebf23856" "Spatial processing in the visual pathway (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions (ZIP)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/integrate_fire_sol.zip) (This ZIP file contains: 6 .m files)
+{{% resource_link "3c115c12-08c9-a715-8cac-8983b4250741" "Solutions (ZIP)" %}} (This ZIP file contains: 4 .m files)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Spike-triggered averaging of neural responses: Handout and data (ZIP - 2.1MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/spike_avg.zip) (This ZIP file contains: 1 .doc file and 1 .mat file)
+{{% resource_link "bea7cfe5-2f23-5cc9-7c94-9990df7fb0e3" "Integrate and fire model of neural activation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Solutions (ZIP - 1.9MB)](/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/tutorials/tutorial-2.-matlab-programming/spike_avg_sol.zip) (This ZIP file contains: 2 .m files and 1 .mat file)
+{{% resource_link "c06d530a-0768-8ecc-a294-e621a9a84687" "Solutions (ZIP)" %}} (This ZIP file contains: 6 .m files)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link "cb79871e-e4f1-4cd8-5caa-452f4a859f05" "Spike-triggered averaging of neural responses: Handout and data (ZIP - 2.1MB)" %}} (This ZIP file contains: 1 .doc file and 1 .mat file)
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link "89182fc0-d992-b5e8-5789-2eeeff4803fe" "Solutions (ZIP - 1.9MB)" %}} (This ZIP file contains: 2 .m files and 1 .mat file)
 {{< tdclose >}}
 
 {{< trclose >}}

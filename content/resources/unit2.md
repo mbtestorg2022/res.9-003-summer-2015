@@ -16,6 +16,7 @@ image_metadata:
   credit: ''
   image-alt: "Diagram with photos of three types of stacked objects\u2014dishes in\
     \ a sink, stable tower of blocks and unstable tower of blocks."
+parent_uid: 855d4e86-2ca9-e529-74f0-cdef3de9e9c0
 resourcetype: Image
 title: unit2.jpg
 uid: a3dd6144-57fb-ef82-c3c8-cc776d7db243

@@ -14,6 +14,7 @@ image_metadata:
   credit: ''
   image-alt: Still photo of a tall blue bin in center, with a man to the left standing
     with a folding chair and a man to the right with a backpack.
+parent_uid: 8d2bd38c-682c-4509-eb22-aad86d4047ab
 resourcetype: Image
 title: unit5.jpg
 uid: f1377cde-cb2e-42cb-7c11-568e6a9c2eb6

@@ -4,6 +4,7 @@ description: 'This file contains information regarding MATLAB: Goldman / Zysman 
   tutorial.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d82a14ffeb24f8c77cc22bf263ebc6b2_MITRES_9_003SUM15_tut2.pdf
 file_type: application/pdf
+parent_uid: 8cd0ca9a-ec53-9f73-3f4c-198c13784445
 resourcetype: Document
 title: 'MATLAB: Goldman / Zysman Introductory Tutorial'
 uid: d82a14ff-eb24-f8c7-7cc2-2bf263ebc6b2
